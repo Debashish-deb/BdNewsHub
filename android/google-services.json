@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857941968632",
+    "project_id": "bdnewshub-781f6",
+    "storage_bucket": "bdnewshub-781f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857941968632:android:5814967401e180549e5d0d",
+        "android_client_info": {
+          "package_name": "com.dreamsd.bdnewshub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpujD4TVuUooO_6Ws0Q8Okvb9E6AkMBx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
